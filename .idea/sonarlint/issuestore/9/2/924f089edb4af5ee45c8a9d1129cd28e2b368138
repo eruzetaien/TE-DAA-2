@@ -1,0 +1,11 @@
+
+ƒ
+java:S1192*"fDefine a constant instead of duplicating this literal "=====================================" 6 times.(±„òá8ó©¾Á1
+G
+java:S1659"*Declare "afterUsedMem" on a separate line.(´‡œ8‡Âà»Á1
+G
+java:S1659"%Declare "endTime" on a separate line.(åî±úÿÿÿÿ8Šª¾Á1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8áéé»Á1
+Q
+java:S1144"5Remove this unused private "checkMemoryUsage" method.(îºúX8Ùî€¾Á1
